@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning learning full stack web development,
 - 💞️ I’m looking to collaborate  with anyone and thus help and learn along the way
-- 📫 How to reach me in linkedin.
+- 📫 How to contact me in gmail: olgeragt@gmail.com
 
 <!---
 OlgerAndres/OlgerAndres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
